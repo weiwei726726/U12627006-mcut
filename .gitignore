@@ -45,3 +45,8 @@ data/processed/*
 *.parquet
 *.sqlite3
 *.db
+data/raw/**/*.pdf
+data/interim/**/*.md
+data/processed/**/*.json
+!data/interim/**/.keep
+!data/processed/**/.keep
