@@ -30,3 +30,12 @@
 - [x] requirements.txt 已新增 docling 與 matplotlib
 - [x] GitHub 上沒有 PDF 與大量 JSON / MD 檔案
 - [x] 在 GitHub 網頁上打開 notebook，看得到儀表 
+### week 10：從計數到向量
+
+- [x] 所有 7 個 `TODO` 檢查都通過，notebook **保留輸出**並存檔
+- [x] 反思 3 題已作答
+- [x] `week10_retrieval_comparison.json` 已產生
+- [x] `requirements.txt` 和 `.gitignore` 已更新（由 `10_0_setup.ipynb` 自動完成）
+- [x] `AI_USAGE.md` 已新增 **Week 10** 段落：今天哪些地方問了 AI、AI 的回答哪裡正確或錯誤、你如何查證
+- [x] `README.md` 已更新：新增 **Week 10** 的說明（本週完成的內容、新增的檔案）
+- [x] commit & push，並**打開 GitHub 網頁確認**檔案已經上傳
